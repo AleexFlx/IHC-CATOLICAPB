@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "CalibrationMain",
+            "request": "launch",
+            "mainClass": "CalibrationMain",
+            "projectName": "IHC-CATOLICAPB_1ec8f7d7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "IHC-CATOLICAPB_1ec8f7d7"
+        },
+        {
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
